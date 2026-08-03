@@ -27,7 +27,7 @@ Two PCs are connected through a switch and configured with IP addresses from the
 
 ##  Network Topology
 
-PC0 -------- Switch -------- PC1
+[Network Topology](images/Topology.png)
 
 ---
 
@@ -39,7 +39,12 @@ PC0 -------- Switch -------- PC1
 | PC1 | 192.168.1.20 | 255.255.255.0 | 192.168.1.1 |
 
 ---
+## Test Result
 
+Both PCs were able to communicate successfully using the `ping` command.
+**Result** Successful communication (100% success rate )
+
+---
 ##  Skills Learned
 
 - IPv4 addressing
@@ -47,17 +52,13 @@ PC0 -------- Switch -------- PC1
 - Same-network communication
 - Connectivity troubleshooting
 - Ping testing
-
 ---
+## Project Files
+- [Packet tracer](IP-addressing-lab.pkt)
+- [Network Topology](images/Topology.png)
 
-## Result
-
-Both PCs were able to communicate successfully using the `ping` command.
-
----
 
 ## Author
-
-**KawtharBader**
+**Kawthar Bader**
 
 Computer Networks Student | CCNA Learner | Building Networking Labs 
