@@ -54,7 +54,7 @@ Both PCs were able to communicate successfully using the `ping` command.
 - Ping testing
 ---
 ## Project Files
-- [Packet Tracer](PacketTracer/IP-addressing-lab.pkt)
+- [Packet Tracer](Packet-Tracer/IP-addressing-lab.pkt)
 - [Network Topology](images/Topology.png)
 
 
