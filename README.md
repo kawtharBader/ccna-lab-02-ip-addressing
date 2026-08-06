@@ -27,7 +27,7 @@ Two PCs are connected through a switch and configured with IP addresses from the
 
 ##  Network Topology
 
-[Network Topology](images/Topology.png)
+![Network Topology](images/Topology.png)
 
 ---
 
